@@ -1,1 +1,10 @@
+{
+  "chainId": 101,
+  "address": "9koReocvA2N9JvnDQQjxqzUuvHa6cvJm4N4SRRYxKnuu",
+  "symbol": "PI",
+  "name": "PI Token",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/kayingit/PI/713462d56bac159cd064fa4060ee8bb1a3e0d623/vecteezy_pi-icon-pi-network-pi-vector-logo-cryptocurrency-symbol_13257205-1.jpg",
+  "tags": ["utility-token"]
+}
 
